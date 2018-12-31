@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-translate",
+    "name": "donkeyworks/zendframework1-translate",
     "description": "Zend Framework 1 Translate component",
     "type": "library",
     "keywords": [
@@ -12,13 +12,13 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-exception": "^1.0.0",
-        "diablomedia/zendframework1-config": "^1.0.0",
-        "diablomedia/zendframework1-loader": "^1.0.0",
-        "diablomedia/zendframework1-xml": "^1.0.0",
-        "diablomedia/zendframework1-cache": "^1.0.0",
-        "diablomedia/zendframework1-locale": "^1.0.0",
-        "diablomedia/zendframework1-log": "^1.0.0"
+        "donkeyworks/zendframework1-exception": "^1.0.0",
+        "donkeyworks/zendframework1-config": "^1.0.0",
+        "donkeyworks/zendframework1-loader": "^1.0.0",
+        "donkeyworks/zendframework1-xml": "^1.0.0",
+        "donkeyworks/zendframework1-cache": "^1.0.0",
+        "donkeyworks/zendframework1-locale": "^1.0.0",
+        "donkeyworks/zendframework1-log": "^1.0.0"
     },
     "autoload": {
         "psr-0": {
